@@ -1,3 +1,4 @@
 # Arduino-projects
 
-This repo is based on projects based on Arduino
+Few arudino projects written in c++ 
+
